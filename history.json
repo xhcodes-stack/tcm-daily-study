@@ -93,7 +93,9 @@
     "daji_6808",
     "dafeijincao",
     "chuanlingcao",
-    "daodiaobiye"
+    "daodiaobiye",
+    "daguoshanlong",
+    "guangyeshuisu"
   ],
   "herb_清热药": [
     "bianxu",
@@ -189,7 +191,9 @@
     "chongtianguo",
     "huazhongliuzujue",
     "feitianqinliao",
-    "bingcaogen"
+    "bingcaogen",
+    "gaoshantangsongcao",
+    "dacaowu"
   ],
   "herb_化痰止咳平喘药": [
     "chaihu",
@@ -285,7 +289,9 @@
     "guihualu",
     "chuizhuhua",
     "huashuye",
-    "bailixiang"
+    "bailixiang",
+    "ganglingye",
+    "dazhongbanbianlian"
   ],
   "herb_活血化瘀药": [
     "baijiezi",
@@ -381,7 +387,9 @@
     "chairou",
     "cilaoya",
     "huaxuedan",
-    "daozhalong"
+    "daozhalong",
+    "dibaishu",
+    "chuisiweimao"
   ],
   "herb_补虚药": [
     "bohe",
@@ -477,7 +485,9 @@
     "biandangan",
     "fushengcao",
     "biqi",
-    "chimaya"
+    "chimaya",
+    "fucan",
+    "guangluoxingchong"
   ],
   "herb_安神药": [
     "chuanlianzi",
@@ -573,7 +583,9 @@
     "baiqucai",
     "bima",
     "guizhouyuanzhi",
-    "cilaoya"
+    "cilaoya",
+    "guajindeng",
+    "chouchangshan"
   ],
   "herb_平肝息风药": [
     "cishi",
@@ -669,7 +681,9 @@
     "dalangdu",
     "biligen",
     "daoshuilian",
-    "fushuicao"
+    "fushuicao",
+    "guihualu",
+    "chutouhong"
   ],
   "formulas": [
     "andongsan",
@@ -859,13 +873,18 @@
     "ansuisan",
     "anhundingpodan",
     "anhunsan",
-    "anhuntang"
+    "anhuntang",
+    "anhunhupodan",
+    "anlvziwan",
+    "anlvyin",
+    "aonaosan"
   ],
   "teas": [
     "桂圆红枣枸杞茶",
     "丹参山楂茶",
     "西洋参麦冬茶",
     "葱白豆豉汤",
-    "当归红枣茶"
+    "当归红枣茶",
+    "川贝雪梨水"
   ]
 }
