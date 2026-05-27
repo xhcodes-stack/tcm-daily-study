@@ -113,7 +113,9 @@
     "baifan",
     "ceer",
     "baishu",
-    "cangshanlengshan"
+    "cangshanlengshan",
+    "baihualongdan",
+    "cisanjia"
   ],
   "herb_清热药": [
     "bianxu",
@@ -229,7 +231,9 @@
     "danhuayuanweizi",
     "fenyedijin",
     "baicaoshuang",
-    "feilaihe"
+    "feilaihe",
+    "dongguateng",
+    "cangjunchen"
   ],
   "herb_化痰止咳平喘药": [
     "chaihu",
@@ -345,7 +349,9 @@
     "chanpi",
     "choulengshan",
     "hanxiucaogen",
-    "cuiyuncao"
+    "cuiyuncao",
+    "baqia",
+    "baihuatianmimi"
   ],
   "herb_活血化瘀药": [
     "baijiezi",
@@ -461,7 +467,9 @@
     "beixian",
     "houyeyanjiecao",
     "biaoganhua",
-    "dahengwen"
+    "dahengwen",
+    "ciguye",
+    "datoutuowu"
   ],
   "herb_补虚药": [
     "bohe",
@@ -577,7 +585,9 @@
     "baijiuguniu",
     "gouguzi",
     "geli",
-    "ganlan_7357"
+    "ganlan_7357",
+    "baihe",
+    "gonglaomu"
   ],
   "herb_安神药": [
     "chuanlianzi",
@@ -693,7 +703,9 @@
     "gaoshanhuanghuagen",
     "congmaoronggen",
     "chaye",
-    "fuxiaomai"
+    "fuxiaomai",
+    "guyangjiao",
+    "baitouweng"
   ],
   "herb_平肝息风药": [
     "cishi",
@@ -809,7 +821,9 @@
     "baiyuwei",
     "cilaoya",
     "chengqiezi",
-    "baimagu"
+    "baimagu",
+    "hetaoqiuguo",
+    "guanzhong_7486"
   ],
   "formulas": [
     "andongsan",
@@ -1039,10 +1053,15 @@
     "aijianfulingsan",
     "ailiuwan",
     "aichangni",
-    "aijiaosan"
+    "aijiaosan",
+    "aijiaotang",
+    "aizhuwan",
+    "airongwan",
+    "airongfufa"
   ],
   "teas": [
     "西洋参麦冬茶",
-    "桑叶菊花茶"
+    "桑叶菊花茶",
+    "熟地黄怀山药水"
   ]
 }
